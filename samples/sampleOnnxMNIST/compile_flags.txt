@@ -1,0 +1,4 @@
+-I../common
+-I../../include
+-I../../shared
+-I/usr/local/cuda/include
